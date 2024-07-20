@@ -1,5 +1,5 @@
 pragma solidity ^0.4.17;
-// linter warnings (red underline) about pragma version can igonored!
+// linter warnings (red underline) about pragma version can be igonored!
 
 contract Inbox {
     string public message;
